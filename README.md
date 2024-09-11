@@ -1,3 +1,4 @@
+
 ## Olympic medal count predictions by country
 
 - This project aims to predict the number of medals that different countries will win in the Olympics using various machine learning models. The dataset includes information about the teams, their participation in different years, and their previous performances.
